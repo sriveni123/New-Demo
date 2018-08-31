@@ -1,5 +1,12 @@
-hi
- how r u 
+Git
+Jenkins
+Sonar Qube
+Nexus
+Java
+Docker
+Ansible
+Aws
+Shell Scripting
+Services
 
-good morning
 
